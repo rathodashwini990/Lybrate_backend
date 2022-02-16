@@ -63,7 +63,7 @@ Lybrate is a mobile healthcare technology company that developed an online platf
   <h1>Glimps of our work</h1>
   <hr>
   <div>
-  <img style="width:100%" src="https://scontent.fixm4-1.fna.fbcdn.net/v/t39.30808-6/272665889_1155152031687981_665568583486452423_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=JcfC4gHCzxYAX_h40fg&_nc_ht=scontent.fixm4-1.fna&oh=00_AT-KWs3kFlJT9ild3vI4HOxV0YSnAPAHIMW8WqZqfSrK7w&oe=62067F83"/>
+  <img style="width:100%" src="https://miro.medium.com/max/627/1*0P1G8ZaVoc2qnrbMamL33Q.png"/>
     <img style="width:100%" src="https://scontent.fixm4-1.fna.fbcdn.net/v/t39.30808-6/p180x540/273279576_1161202057749645_4594594266583449514_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=5XWwRkfBtJgAX8v-3r_&_nc_ht=scontent.fixm4-1.fna&oh=00_AT-0JoZtE9rT_9bY2pLKyErRt3LizJpXuwEIvPYGTbKAZg&oe=6207F03F"/>
     <img style="width:100%" src="https://scontent.fixm4-1.fna.fbcdn.net/v/t39.30808-6/272667921_1161202061082978_5365706992944818985_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=aDiiiS8fYmgAX9qW4xe&tn=QL5AAqKT3A_WAzar&_nc_ht=scontent.fixm4-1.fna&oh=00_AT9vrISyYyTwqq2Jbt47PF7VSzdJMq7yv5XlQTcnk2TNcg&oe=62073410"/>
     <img style="width:100%" src="https://scontent.fixm4-1.fna.fbcdn.net/v/t39.30808-6/273037779_1161202054416312_349156294071215456_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_ohc=-irSBheSUPAAX8BJwru&_nc_ht=scontent.fixm4-1.fna&oh=00_AT-WYBHU1nlFOEpLVIvyGYE_e1Klaei_TkuGt5lQ6R0aqA&oe=620800EC"/>
